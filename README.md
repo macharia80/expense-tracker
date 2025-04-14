@@ -1,3 +1,4 @@
+## **Folder Structure**
 expense-tracker/
 ├── public/
 │   └── index.html          # HTML template
