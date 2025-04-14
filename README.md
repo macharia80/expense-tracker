@@ -23,7 +23,6 @@ expense-tracker/
 cd expense-tracker//
 ### **2.Install Dependencies
 npm install
-npm run dev
 ### **3.Start The development Server
 npm run dev
 ### ***4 Build For Production
@@ -97,4 +96,4 @@ This app is fully responsive, ensuring a seamless experience on both desktop and
 
 ---
 
-## **Folder Structure**
+
